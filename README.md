@@ -10,7 +10,7 @@ Universal Hybrid Container a Design Pattern we have been successfully using in p
 
 #### It's universal
 
-Whether you have a lot of different container fields all over your app's tables (like profile pictures, PDF documents, email attachments etc.) and would like to store them in just one 
+Whether you have a lot of different container fields all over your app's tables (like profile pictures, PDF documents, email attachments etc.) and would like to store them in just one binary table 
 
 #### It's hybrid
 
