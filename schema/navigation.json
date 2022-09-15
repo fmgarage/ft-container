@@ -1,0 +1,45 @@
+{
+	"languages": ["en","de"],
+	"variants": ["root"],
+	"menus": {
+		"n1": {
+			"root": {
+				"names": ["settings"],
+				"default": "settings",
+				"items": {
+					"settings": {
+						"label": {
+							"de": "Einstellungen",
+							"en": "Settings"
+						},
+						"info": {
+							"de": "Verwaltung von Klassen und Tabellen",
+							"en": "CLasses and Tables setup"
+						},
+						"target": {
+							"view": "restore"
+						},
+						"names": ["classes","tables"],
+						"default": "classes",
+						"items": {
+							"classes": {
+								"label": {
+									"de": "Klassen",
+									"en": "Classes"
+								},
+								"target": {
+									"layout": { 
+										"name": "FTContainer CF Settings" 
+									},
+									"window": {
+										"adjust": "resize"
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
