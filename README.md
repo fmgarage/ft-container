@@ -14,7 +14,7 @@ Whether you have a lot of different container fields all over your app's tables 
 
 #### It's hybrid
 
-Do you prefer internal, external or encrypted storage for your binaries? All have there advantages and disadvantages. You can even mix and match based on 
+Do you prefer internal, external or encrypted storage for your binaries? All have there advantages and disadvantages.  
 
 
 
